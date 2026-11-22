@@ -1,5 +1,7 @@
 # Mallige Unicode
 
+*Part of the [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) · typing standard: [AccTantra](https://github.com/PrahladTantry/AccTantra) · keyboard: [AccTantra_Unicode](https://github.com/PrahladTantry/AccTantra_Unicode)*
+
 A modern Unicode-compliant font for the **Tulu Script (Unicode 16.0)** designed for high-quality digital typography, publishing, education, and software applications.
 
 Mallige Unicode aims to provide a complete implementation of the newly encoded Tulu script while maintaining readability, traditional aesthetics, and robust OpenType shaping.
