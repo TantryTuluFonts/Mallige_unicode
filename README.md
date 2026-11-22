@@ -6,6 +6,10 @@ A Unicode font for the **Tulu-Tigalari script** (Unicode 16.0), designed for dig
 
 ![Tulu-Tigalari characters in Mallige Unicode](specimens/charset.png)
 
+## The standard
+
+Mallige Unicode is the Unicode counterpart of [Mallige](https://github.com/TantryTuluFonts/mallige), and together they are the faithful representations of [the standard for writing Tuḷu](https://tantrytulufonts.github.io/tulu-script-standard/) set out in [*Tuḷu Varṇāmr̥ta*](https://tantrytulufonts.github.io/tulu-varnamruta/).
+
 ## Download
 
 Get the latest font from the [**Releases** page](https://github.com/TantryTuluFonts/Mallige_unicode/releases/latest), or take `Mallige_Unicode_v2.ttf` from this repository.
