@@ -61,7 +61,7 @@ Compared with v1 (version 1.000), the current file has:
 
 Use the **[AccTantra_Unicode](https://github.com/TantryTuluFonts/AccTantra_Unicode)** keyboard (for [Keyman](https://keyman.com)), which follows the AccTantra typing logic and produces real Unicode text for this font.
 
-Need to convert existing text? The [Tulu transliterator](https://prahladtantry.github.io/tulu-transliterator/) converts between AccTantra text and IAST, Devanagari, Kannada or Malayalam.
+Need to convert existing text? The [Tulu transliterator](https://tantrytulufonts.github.io/tulu-transliterator/) converts between AccTantra text and IAST, Devanagari, Kannada or Malayalam.
 
 ## Installation
 
